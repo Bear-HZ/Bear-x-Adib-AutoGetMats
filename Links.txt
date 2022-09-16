@@ -1,0 +1,26 @@
+Download Links for Required Programs:
+
+1. SA:MP:
+	0.3.7 R1:
+	https://dracoblue.net/downloads/samp-client/
+
+	0.3.7 R3-1:
+	https://www.blast.hk/redirect/aHR0cHM6Ly9maWxlcy5zYS1tcC5jb20vc2EtbXAtMC4zLjctUjMtMS1pbnN0YWxsLmV4ZQ
+	
+
+2. CLEO: https://cleo.li/
+
+
+3. ASI Loader: https://www.gtagarage.com/mods/show.php?id=21709
+
+
+4. SAMPFUNCS:
+	0.3.7 R1:
+	https://blast.hk/threads/17/page-138#post-279414
+	
+	0.3.7 R3-1:
+	https://www.blast.hk/threads/65247/
+	(Note: Although this mod works with 0.3.7 R3-1, some CLEOs don't.)
+
+
+5. Moonloader: https://gtaforums.com/topic/890987-moonloader/

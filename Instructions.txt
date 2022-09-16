@@ -1,0 +1,33 @@
+Bear x Adib AutoGetMats v1.9.0
+
+Document Author: Bear (Swapnil#9308)
+
+------
+
+Video Guide: https://youtu.be/nlS4Ld8_jBc
+
+INSTALLATION INSTRUCTIONS:
+
+1. Have eiter SA:MP 0.3.7 R1 or 0.3.7 R3-1 installed in GTA SA v1.0. (Either SA:MP version requires a seperate version of SAMPFUNCS. Check Links.txt for more.)
+
+2. Ensure that you have the latest versions of CLEO, ASI Loader, SAMPFUNCS and Moonloader installed. (Check Links.txt)
+
+3. If you already have another AutoGetMats LUA mod installed in your 'moonloader' folder, remove it first to avoid conflict.
+
+4. Copy the 'moonloader' folder from 'Bear x Adib AutoGetMats v1.8 Revised' to your GTA SA game directory. Replace existing files with new ones if necessary.
+
+Contact Swapnil#9308 on Discord for support.
+
+------
+
+COMMANDS:
+
+/autogm, gmmenu
+
+------
+
+ABOUT THE MOD:
+
+This mod is a complete revamp of Adib's All Routes Getmats 2.0(https://forums.hzgaming.net/showthread.php/418706-LUA-All-Routes-Getmats-2-0).
+
+Official HZG Thread: https://forums.hzgaming.net/showthread.php/457242-Bear-x-Adib-AutoGetMats-v1.8
