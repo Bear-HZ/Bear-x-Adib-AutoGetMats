@@ -347,19 +347,8 @@ function main()
 				while isPickupAttemptResponseAwaited do wait(0) end
 				
 				-- React, if needed, to the server's response to the pickup attempt
-				if isPickupAttemptRedundant then
-					isACheckpointActive = true
-					isPickupAttemptRedundant = false
-				end
-				
-				if isACheckpointActive then
-					while isACheckpointActive do wait(0) end
-					goto track
-				end
-				
 				if isJobRequirementNotMet then
 					while isJobRequirementNotMet and isPlayerInSupZone(selectedPickup) do wait(0) end
-					goto track
 				end
 				
 				if lackedPickupFeeAmount ~= 0 then -- the value being non-zero indicates that pickup has failed due to fund insufficiency
@@ -370,6 +359,13 @@ function main()
 						
 					lackedPickupFeeAmount = 0
 				end
+				
+				if isPickupAttemptRedundant then
+					isACheckpointActive = true
+					isPickupAttemptRedundant = false
+				end
+				
+				while isACheckpointActive do wait(0) end
 			end
 			
 			while hasPlayerDisabledPickup do wait(0) end
