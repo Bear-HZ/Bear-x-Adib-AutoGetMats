@@ -1,4 +1,4 @@
-Bear x Adib AutoGetMats v1.9.0
+Bear x Adib AutoGetMats v1.9.1
 
 Document Author: Bear (Swapnil#9308)
 
@@ -30,4 +30,4 @@ ABOUT THE MOD:
 
 This mod is a complete revamp of Adib's All Routes Getmats 2.0(https://forums.hzgaming.net/showthread.php/418706-LUA-All-Routes-Getmats-2-0).
 
-Official HZG Thread: https://forums.hzgaming.net/showthread.php/457242-Bear-x-Adib-AutoGetMats-v1.8
+Official HZG Thread: https://forums.hzgaming.net/showthread.php/457242-LUA-Bear-x-Adib-AutoGetMats
