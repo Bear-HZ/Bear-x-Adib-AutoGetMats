@@ -5,7 +5,7 @@
 
 script_name("Bear x Adib AutoGetMats")
 script_authors("Bear, Adib")
-script_version("1.10.0")
+script_version("1.10.1")
 
 
 -----------------------------------------------------
@@ -84,7 +84,7 @@ end
 -----------------------------------------------------
 
 
--- Indicates to menu that the screen resolution has changed, so that the menu window and size can be recalibrated
+-- Indicates to the imgui menu that the screen resolution has changed, so that the menu window and size can be recalibrated
 local hasResChanged = true
 
 -- Indicates, if true, that material packages are certainly held by the player
@@ -212,7 +212,7 @@ function main()
 	-- Waiting to meet startup conditions
 	repeat wait(50) until isSampAvailable()
 	repeat wait(50) until string.find(sampGetCurrentServerName(), "Horizon Roleplay")
-	sampAddChatMessage("--- {FFFF00}AutoGetMats v" .. script.this.version .. " {FFFFFF}by Bear and Adib | Use {FFFF00}/menu", -1)
+	sampAddChatMessage("--- {FFFF00}AutoGetMats v" .. script.this.version .. " {FFFFFF}by Bear and Adib | Use {FFFF00}/gmmenu", -1)
 	
 	-- Command registry
 	sampRegisterChatCommand("autogm", cmd_autogm)
